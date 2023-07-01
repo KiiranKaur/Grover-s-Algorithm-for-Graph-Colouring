@@ -1,5 +1,5 @@
 # Grover-s-Algorithm-for-Graph-Colouring
-# **Grover's Algorithm for Graph Coloring Problems**
+
 ---
 
 ## **Introduction** 
